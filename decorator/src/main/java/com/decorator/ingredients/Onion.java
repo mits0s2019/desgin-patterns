@@ -1,10 +1,12 @@
-package com.decorator;
+package com.decorator.ingredients;
 
-import java.util.Arrays;
+import com.decorator.Burger;
+import com.decorator.BurgerDecorator;
+
 import java.util.List;
 
 
-public class Onion extends BurgerDecorator{
+public class Onion extends BurgerDecorator {
 
     public Onion(Burger burger) {
         super(burger);

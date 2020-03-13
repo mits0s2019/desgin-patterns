@@ -1,4 +1,7 @@
-package com.decorator;
+package com.decorator.ingredients;
+
+import com.decorator.Burger;
+import com.decorator.BurgerDecorator;
 
 import java.util.List;
 
