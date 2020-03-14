@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d1f99f4-3a96-4f1e-a106-59759728fb31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/BurgerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/BurgerShop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Z5QPivMG9dPV06lLwRGcYE2dwR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BurgerShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.decorator.BurgerShop" />
+      <module name="decorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BurgerShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1f99f4-3a96-4f1e-a106-59759728fb31" name="Default Changelist" comment="" />
+      <created>1584126452761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584126452761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1584130880632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584130880632" />
+    <state x="420" y="139" key="FileChooserDialogImpl" timestamp="1584187995952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="139" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584187995952" />
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom" timestamp="1584209931882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584209931882" />
+    <state width="1286" height="155" key="GridCell.Tab.0.center" timestamp="1584209931882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584209931882" />
+    <state width="1286" height="155" key="GridCell.Tab.0.left" timestamp="1584209931881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584209931881" />
+    <state width="1286" height="155" key="GridCell.Tab.0.right" timestamp="1584209931882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584209931882" />
+    <state width="1286" height="264" key="GridCell.Tab.1.bottom" timestamp="1584133585853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="264" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584133585853" />
+    <state width="1286" height="264" key="GridCell.Tab.1.center" timestamp="1584133585853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="264" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584133585853" />
+    <state width="1286" height="264" key="GridCell.Tab.1.left" timestamp="1584133585853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="264" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584133585853" />
+    <state width="1286" height="264" key="GridCell.Tab.1.right" timestamp="1584133585853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="264" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584133585853" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1584130574524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584130574524" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584126457845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584126457845" />
+    <state x="65" y="59" key="new project wizard" timestamp="1584188002659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584188002659" />
+    <state x="324" y="94" width="700" height="530" key="recent.locations.popup" timestamp="1584188633884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="94" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1584188633884" />
+  </component>
+</project>

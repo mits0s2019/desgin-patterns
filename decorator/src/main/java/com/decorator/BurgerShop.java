@@ -11,7 +11,7 @@ public class BurgerShop {
         Burger burger=new Cheese(new Onion(new Bacon(new PlainBurger())));
 
         System.out.println("ingredients : "+burger.getIngredients());
-        System.out.println("total cost : "+burger.getCost());
+        System.out.println("total cost : "+burger.getCost()+" \u20ac");
     }
 }
 
