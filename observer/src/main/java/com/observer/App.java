@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        Mobile mobile=new Mobile(MobileBrand.XIAOMI);
+        Mobile mobile=new Mobile(MobileBrand.SAMSUNG);
 
         mobile.registerObserver(new StockHouse1());
         mobile.registerObserver(new StockHouse2());
