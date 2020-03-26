@@ -25,7 +25,7 @@ public class HasCard implements ATMState {
         }
     }
 
-    public void withraw(int cash) {
+    public void withdraw(int cash) {
         System.out.println("you have to insert your pin first");
     }
 

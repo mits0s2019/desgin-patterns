@@ -18,7 +18,7 @@ public class PinCorrect implements ATMState {
 
     }
 
-    public void withraw(int cash) {
+    public void withdraw(int cash) {
         if(atm.getCreditCard().getBalance()>=cash){
             int newBalance=atm.getCreditCard().getBalance()-cash;
             atm.getCreditCard().setBalance(newBalance);

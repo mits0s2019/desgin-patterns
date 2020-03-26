@@ -37,8 +37,8 @@ public class ATM {
         currentState.insertPin(pin);
     }
 
-    public void withraw(int cash) {
-        currentState.withraw(cash);
+    public void withdraw(int cash) {
+        currentState.withdraw(cash);
     }
     public void ejectCard() {
         currentState.ejectCard();

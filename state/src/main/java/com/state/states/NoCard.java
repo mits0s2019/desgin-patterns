@@ -19,7 +19,7 @@ public class NoCard implements ATMState {
         System.out.println("you have to insert the card first");
     }
 
-    public void withraw(int cash) {
+    public void withdraw(int cash) {
         System.out.println("you have to insert the card first");
     }
 

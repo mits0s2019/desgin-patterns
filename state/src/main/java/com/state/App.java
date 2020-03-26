@@ -13,7 +13,7 @@ public class App {
 
         atm.insertCard();
         atm.insertPin(1234);
-        atm.withraw(1000);
+        atm.withdraw(1000);
         atm.ejectCard();
 
     }
